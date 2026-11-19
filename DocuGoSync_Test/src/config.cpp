@@ -1,6 +1,6 @@
 #include <iostream>
 
-const int TIMEOUT = 60;
+const int TIMEOUT = 50;
 const double TAX_RATE = 0.20;
 const int MAX_USERS = 100;
 
