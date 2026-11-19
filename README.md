@@ -2,7 +2,7 @@
 
 ## Configuration
 
-The application uses a timeout of 30 seconds.
+The application uses a timeout of 50 seconds.
 
 The server runs on port 8080.
 
